@@ -17,6 +17,6 @@ I got a Challenge Invite - when i didn't knew what it was, Thanks to my curiosit
 - [Power-Hungry](https://github.com/nishant-ai/foobar-with-Google/tree/main/Level%202/1%20-%20Power%20Hungry)
 - [en-route-salute](https://github.com/nishant-ai/foobar-with-Google/tree/main/Level%202/2%20-%20en%20route%20salute)
 
-Checkout [Journal](https://github.com/nishant-ai/foobar-with-Google/blob/main/journal.md) to Catch up with the Story line!
+Checkout the [Journal](https://github.com/nishant-ai/foobar-with-Google/blob/main/journal.md) to Catch up with the Story line!
 
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
