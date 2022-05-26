@@ -19,9 +19,8 @@ I got a Challenge Invite - when i didn't knew what it was, Thanks to my curiosit
 
 Checkout the [Journal](https://github.com/nishant-ai/foobar-with-Google/blob/main/journal.md) to Catch up with the Story line!
 
-**Important: **
 
-I have uploaded these solutions for programmers to practise, Any Plagiarism is not expected, and Ethical Code of Conduct Must be Followed. 
+**Important:** I have uploaded these solutions for programmers to practise, Any Plagiarism is not expected, and Ethical Code of Conduct Must be Followed. 
 
 **_Happy Learning!_** ∞🎯
 
