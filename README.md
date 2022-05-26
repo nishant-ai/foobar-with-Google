@@ -8,11 +8,11 @@ There are Five Levels, each with a different number of challenges - Following a 
 
 I got a Challenge Invite - when i didn't knew what it was, Thanks to my curiosity, that paid off. I checked it out! Yayy! 🤩🔥
 
-## Level 1
+### Level 1
 
 - [Solar-Doomsday](https://github.com/nishant-ai/foobar-with-Google/tree/main/Level%201/solar-doomsday)
 
-## Level 2
+### Level 2
     
 - [Power-Hungry](https://github.com/nishant-ai/foobar-with-Google/tree/main/Level%202/1%20-%20Power%20Hungry)
 - [en-route-salute](https://github.com/nishant-ai/foobar-with-Google/tree/main/Level%202/2%20-%20en%20route%20salute)
