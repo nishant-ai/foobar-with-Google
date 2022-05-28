@@ -2,7 +2,7 @@
 # Google Foobar 🎯🤔
 
 ![google-foobar](assets/foobar-invite.png)
-<hr>
+
 ![google-foobar](assets/readme-asset.png)
 
 Foobar is an exciting, yet secretive "Invite-Only" Challenge by [Google](https://about.google/).
