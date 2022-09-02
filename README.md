@@ -1,5 +1,5 @@
 
-# Google Foobar 🎯🤔
+# Google Foobar 🎯🤫
 
 ![google-foobar](assets/foobar-invite.png)
 
